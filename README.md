@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
-# 💫 About Me:<br><br>
 🔭 I’m currently working on Lenspost Labs<br><br>🌱 I’m currently learning DSA<br><br>💬 Ask me about JavaScript, React and Node.<br><br>⚡ Fun fact I don't like coffee🥲
 
 
